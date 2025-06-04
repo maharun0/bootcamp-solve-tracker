@@ -23,7 +23,8 @@ export const participants: Participant = {
     Hadeon_99: "Fatin Anzum",
     tasin49: "Muhtadina Serniabat Tasin",
     pranto_11: "Farhin Ahmed Pranto",
-    technobyte: "Yousra Amin"
+    technobyte: "Yousra Amin",
+    Hrithik3: "Ifthikher Alam"
 };
 
 const contests: Record<number, Contest> = {
