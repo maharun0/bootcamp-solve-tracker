@@ -2,8 +2,21 @@ import { Season, Contest, Participant } from "../../types/Season";
 import { createContest } from "../../utils/createContest";
 
 export const participants: Participant = {
-    unexist_exe: "Random Test User",
+  "buchu": "Md. Abdul Ahad",
+  "Asifpoketo": "MD. Asifur Rahman",
+  "AssassinZ": "Akib Al Zawad Pranto",
+  "__Abrar__": "Abrar Ahmad",
+  "WasiCodes": "MD Miftaul Jannah Wasi",
+  "unexist_exe": "Rafiul Omar Rafi",
+  "IamBee": "Md. Muhtasim Jubayer",
+  "randomboomfiend": "Abu Bakar Siddik",
+  "smirkface": "Zahid Hasan",
+  "Eshin": "Farhan Eshrak Eshin",
+  "tzrahiq": "Tasdiq Zimam Rahiq",
+  "nafees_0506": "H M Nafees N Islam",
+  "tamakti_june": "Hasan Md. Turabi Rahman",
 };
+
 
 const contests: Record<number, Contest> = {
      // <contestId>: createContest(<contestId>, ContestName, totalProblems, target, weight)
